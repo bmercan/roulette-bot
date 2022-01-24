@@ -1,0 +1,14 @@
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\rouletteBet.exe.config
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\rouletteBet.exe
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\rouletteBet.pdb
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\WebDriver.dll
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\WebDriver.Support.dll
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.csproj.AssemblyReference.cache
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.Form1.resources
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.Properties.Resources.resources
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.csproj.GenerateResource.cache
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.csproj.CoreCompileInputs.cache
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.csproj.CopyComplete
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.exe
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\obj\Debug\rouletteBet.pdb
+C:\Users\bayra\source\repos\rouletteBet\rouletteBet\bin\Debug\Guna.UI2.dll
